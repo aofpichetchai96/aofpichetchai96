@@ -3,16 +3,11 @@
 </h1>
 <h3 align="center">A passionate software developer from Thailand TH</h3>
 <br/>
-<div align="left">
-    
-🔭 I’m currently working on **a MIS and develop Fullstack web**
-    
-🌱 I’m currently learning  **Laravel, Docker, Node.js, Azure**
-
-👯 I’m looking to collaborate on **Full Stack developer or Backend developer**
-
+<div align="left">    
+🔭 I’m currently working on **a MIS and develop Fullstack web**<br />    
+🌱 I’m currently learning  **Laravel, Docker, Node.js, Azure**<br />
+👯 I’m looking to collaborate on **Full Stack developer or Backend developer**<br />
 😄 Pronouns: **AfferMan**
-
 </div>
 
 <div align="center"> 

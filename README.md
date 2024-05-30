@@ -14,6 +14,15 @@
 😄 Pronouns: **AfferMan**
 
 </div>
+<div align="center"> 
+  <a href="mailto:pichetchai.s39@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>   
+  <a href="https://x.com/Mr_ps96" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 <hr/>
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

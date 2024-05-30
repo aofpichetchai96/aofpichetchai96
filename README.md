@@ -32,8 +32,8 @@
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="./coding.png" /><br />
+<img align="center"  width="300" src="./coding.png" />
+<div align="center">    
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,bootstrap,tailwind,vscode,postman,github,gitlab,git" />
     <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,mongodb,postgres,redis,docker,npm,nginx,powershell,vim,bash" /><br>
 </div>

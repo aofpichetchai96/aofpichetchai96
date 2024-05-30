@@ -1,4 +1,14 @@
 ## Hi 👋, I am Pichetchai Saisin
+<hr/>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />  
+  <br/>
+</div>
+
+<hr/>
+
 
 <!--
 **aofpichetchai96/aofpichetchai96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

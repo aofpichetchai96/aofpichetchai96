@@ -37,7 +37,6 @@
     <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,mongodb,postgres,redis,docker,npm,nginx,powershell,vim,bash" /><br>
 </div>
 <br/>
-<hr/>
-<br/><br/>
+<br/>
 
 
